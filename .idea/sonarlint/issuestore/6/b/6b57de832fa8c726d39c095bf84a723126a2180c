@@ -1,0 +1,21 @@
+
+Š
+java:S1192"hDefine a constant instead of duplicating this literal "Produto nÃ£o encontrado com o cÃ³digo: " 3 times.(¯‡ö™ÿÿÿÿÿ8©‡¿Á1
+G	java:S106
+"+Replace this use of System.out by a logger.(Úàøù8»‡¿Á1
+F	java:S106"+Replace this use of System.out by a logger.(êï¨c8¼‡¿Á1
+G	java:S106"+Replace this use of System.out by a logger.(ĞÛâï8¼‡¿Á1
+G	java:S106"+Replace this use of System.out by a logger.(„™Áß8¼‡¿Á1
+G	java:S106"+Replace this use of System.out by a logger.(ĞÛâï8¼‡¿Á1
+G	java:S106"+Replace this use of System.out by a logger.(Êê´–8½‡¿Á1
+O
+java:S6126"2Replace this String concatenation with Text block.(Êê´–8¾‡¿Á1
+G	java:S106"+Replace this use of System.out by a logger.(ÿØ‘8¾‡¿Á1
+L	java:S106"+Replace this use of System.out by a logger.(¯‡ö™ÿÿÿÿÿ8¿‡¿Á1
+G	java:S106""+Replace this use of System.out by a logger.(¬¾™8À‡¿Á1
+O
+java:S6126""2Replace this String concatenation with Text block.(¬¾™8ğøŸ¿Á1
+G	java:S106%"+Replace this use of System.out by a logger.(“§ˆá8À‡¿Á1
+L	java:S106)"+Replace this use of System.out by a logger.(¯‡ö™ÿÿÿÿÿ8Â‡¿Á1
+G	java:S1060"+Replace this use of System.out by a logger.(Õç¨£8Â‡¿Á1
+L	java:S1064"+Replace this use of System.out by a logger.(¯‡ö™ÿÿÿÿÿ8óøŸ¿Á1
